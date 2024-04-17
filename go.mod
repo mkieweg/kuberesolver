@@ -1,4 +1,4 @@
-module github.com/sercand/kuberesolver/v5
+module github.com/sercand/kuberesolver/v4
 
 go 1.21
 
